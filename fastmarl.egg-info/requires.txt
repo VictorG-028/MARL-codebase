@@ -1,0 +1,7 @@
+hydra-core>=1.1
+torch
+cpprb
+einops
+
+[test]
+pytest
